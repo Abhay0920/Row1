@@ -3,7 +3,7 @@ Students are:
 Abhay Singh Patel
 Aman Jha 
 Anupam Malviya
-Prasant Bhowmik
+Prasanta Bhowmick
 Sarov Mandal
 Deepak Pandey
 Mohit Gurjar
