@@ -1,0 +1,15 @@
+.center_div{
+    /* width: 500px; */
+    /* height: 250px; */
+  /* margin: 50px; */
+  /* outline: solid 1px black; */
+  display: flex;
+  justify-content: center;
+}
+#on{
+    color: green;
+}
+
+#off{
+    color: red;
+}
