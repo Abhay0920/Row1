@@ -1,10 +1,10 @@
 This is the Repo from Row1 of MCA Lab-501 (Cloud Computing)
 Students are:
-Abhay Singh Patel
-Aman Jha 
-Anupam Malviya
-Prasanta Bhowmick
-Sarov Mandal
-Deepak Pandey
-Mohit Gurjar
-Satyadeep Gurjar
+Abhay Singh Patel(01)
+Aman Jha (10)
+Anupam Malviya(20)
+Prasanta Bhowmick(61)
+Sarov Mandal(87)
+Deepak Pandey(33)
+Mohit Gurjar(49)
+Satyadeep Gurjar(80)
